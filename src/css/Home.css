@@ -1,0 +1,45 @@
+.homeBody{
+    background-color: lightyellow;
+    height: 600px;
+}
+
+.heading{
+    font-Family: "calibri";
+    letter-spacing: 2px;
+    margin-left: 20px;
+
+}
+
+.aboutBody {
+    margin-top: 80px;
+    padding: 50px;
+    width: 50%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: rgba(255, 182, 193, 0.427);
+    font-family: sans-serif;
+}
+
+.aboutBody > p {
+    font-size: 24px;
+}
+
+.contactBody > p {
+    font-size: 24px;
+}
+
+.aboutImage {
+    margin-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+.contactBody {
+    
+    padding: 50px;
+    width: 50%;
+    height: 250px;
+    float: right;
+    border: 1px solid black;
+    background-color: rgba(255, 182, 193, 0.427);
+    font-family: sans-serif;
+}
